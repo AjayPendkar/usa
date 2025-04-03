@@ -1,0 +1,3 @@
+-keep class module-info
+-keepattributes Module*
+-dontwarn module-info

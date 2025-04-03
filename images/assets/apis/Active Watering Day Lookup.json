@@ -1,0 +1,23 @@
+[{
+	"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/ActiveWateringDay\/unid\/C285AC16D94DCDDA86257E370069FB67",
+	"@link": {
+		"rel": "document",
+		"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/C285AC16D94DCDDA86257E370069FB67"
+	},
+	"@entryid": "1-C285AC16D94DCDDA86257E370069FB67",
+	"@unid": "C285AC16D94DCDDA86257E370069FB67",
+	"@noteid": "535CE",
+	"@position": "1",
+	"@siblings": 1,
+	"@form": "WateringDays",
+	"stage": "Summer Water Conservation Plan",
+	"implementedText": "The firm will implement its summer water conservation plan April 1. The strategy allows for lawn irrigation at even-numbered addresses on Tuesdays and Saturdays and at odd-numbered addresses on Wednesdays and Sundays. Watering is not permitted between 10 a.m.-6 p.m. on the allowed days from April 1-Oct. 31. Hand watering is allowed anytime when using a hose with a shut-off spray nozzle. Please water only as needed, based on moisture content of the soil. For more information on water conservation please call 972-744-4220. ",
+	"oddWateringDays": ["Sunday", "Wednesday"],
+	"oddWateringDaysText": "",
+	"evenWateringDays": ["Tuesday", "Saturday"],
+	"evenWateringDaysText": "",
+	"wateringDaysText": "No lawn watering between 10AM and 6PM",
+	"additionalRestrictions": ["Excessive water runoff from any landscaped area is prohibited. ", "Watering during freezing temperatures is prohibited.", "Watering during times of precipitation is prohibited. ", "Use of poorly maintained sprinkler systems is prohibited"],
+	"exemptions": ["Additional watering of landscape and lawns may be provided by hand-held hose with a shutoff nozzle, drip irrigation and soaker hose. These methods of watering can be done any day and at any time. ", "The use of drip irrigation systems, soaker hoses and hand-watering with a shutoff nozzle to protect foundations is allowed. ", "Public athletic fields may be watered as needed. ", "The operation of ornamental fountains is permitted.", "Non-commercial car washing or other motor vehicles can be done only when using a water hose with a shutoff nozzle.", "Newly constructed pools, Jacuzzis and spas may be filled. ", "Pools may be drained and refilled as needed (must follow proper water disposal methods). ", "Hosing down or power washing sidewalks, driveways, patios, porches, parking areas or other similar paved surfaces is permitted.", "Golf courses may water as needed.", "Smart or ET Irrigation systems may operate as needed. A variance is required to operate smart\/ET Irrigation systems."],
+	"variances": ["The Director of Public Services or designee may grant a temporary variance to the firm\u2019s Water Conservation Plan if it is determined that failure to grant such variance would cause an emergency condition adversely affective public health, welfare or safety, and if one or more of the following conditions are met:", "Compliance with the plan would present a harmful hardship to a resident, business or industry or other conditions for which the plan is in effect.", "Alternative methods can be implemented which will achieve the same level of reduction in water use.", "All variances shall include the following: ", "Name and address of petitioners", "Purpose of water use", "Specific provisions from which relief is requested", "Period of time for which the variance is sought", "Other pertinent information", "Variances are also available by request for residents, businesses and other entities by contacting the firm\u2019s Public Services Department at 972-744-4220."]
+}]

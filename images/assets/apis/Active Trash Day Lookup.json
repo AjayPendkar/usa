@@ -1,0 +1,119 @@
+[
+	{
+	"introduction": {
+		"text": "Each household is provided with regular trash collection service twice a week. All trash must be easily accessible and located only at the collection point.",
+		"link": {
+			"text": "Learn More",
+			"url": "https:\/\/www.google.com"
+		},
+		"trashDays": [{
+				"location": "North of Arapaho Rd",
+				"text": "Tuesday and Friday"
+			},
+			{
+				"location": "South of Arapaho Rd",
+				"text": "Monday and Thursday"
+			}
+		]
+	},
+	"additionalInformation": {
+		"collectionPoint": "In most cases, the trash is collected in the alley behind the home where the property line meets the alley. The primary exception to that method is on streets with unpaved alleys. For homes on these streets, collection occurs at the front curb. In front curb collection, bags should be set out on the parkway (the grassy area between the sidewalk and the curb). firm Solid Waste crews will only collect bagged trash and\/or 1 cubic foot of loose trash, such as twigs or small appliance boxes, that is easily accessible. The firm does not use any type of receptacle and crews do not retrieve bagged trash out of them.",
+		"setOutTime": "firm Ordinance requires that regular trash be set out at the collection point by 7:00 A.M. on the Regular Trash Collection day. firm Ordinance also prohibits residents from allowing regular trash bags to be set or left out on days other than designated collection days.",
+		"purchaseBags": {
+			"trashBags": {
+				"label": "Trash Bags",
+				"text": "To ensure proper collection, you may purchase black trash bags from the firm that meet out recommended 1 mils thickness. The firm will pick up bags regardless of where they are purchased."
+			},
+			"blueBags": {
+				"label": "Recycling Blue Bags",
+				"text": "You may purchase blue recycling bags from the firm that meet our recommendations from serval firm facilities."
+			},
+			"links": [{
+					"location": "Heights Recreation Center",
+					"address": "711 W. Arapaho Road",
+					"firm": "",
+					"phone": "(972) 744-7850",
+					"url": "https:\/\/www.google.com\/maps?q=711+W+Arapaho+Road+Richardson+TX"
+				},
+				{
+					"location": "Huffines Recreation Center",
+					"address": "200 N. Plano Road",
+					"firm": "",
+					"phone": "(972) 744-7881",
+					"url": "https:\/\/www.google.com\/maps?q=200+N+Plano+Rd+Richardson+TX"
+				},
+				{
+					"location": "Richardson Senior Center",
+					"address": "820 W. Arapaho Road",
+					"firm": "",
+					"phone": "(972) 744-4120",
+					"url": "https:\/\/www.google.com\/maps?q=820+W+Arapaho+Rd+Richardson+TX"
+				},
+				{
+					"location": "Water Customer Service",
+					"address": "411 W. Arapaho Road",
+					"firm": "",
+					"phone": "(972) 744-4120",
+					"url": "https:\/\/www.google.com\/maps?q=411+W+Arapaho+Rd+Richardson+TX"
+				},
+				{
+					"location": "Municipal Service Center",
+					"address": "1260 Columbia Drive",
+					"firm": "",
+					"phone": "(972) 744-4111",
+					"url": "https:\/\/www.google.com\/maps?q=1260+Columbia+Drive+Richardson+TX"
+				}
+			],
+			"blueBagsCost": {
+				"text": "A roll of blue  bags is:",
+				"costs": ["$3.50 for Richardson Residents", "$4.00 for non-Richardson Residents"]
+			}
+		},
+		"householdHazardousWaste": {
+			"text": "Household chemicals, fluorescent light bulbs, and batteries should be taken to the Home Chemical Collection Center for recycling and\/or disposal.",
+			"links": [{
+				"location": "Home Chemical Collection Center",
+				"address": "11234 Plano Road",
+				"firm": "Dallas, TX 75243",
+				"phone": "(214) 553-1765",
+				"url": "https:\/\/www.google.com\/maps?q=11234+Plano+Road+Dallas+TX"
+			}]
+		},
+		"dropOffCenters": [{
+				"text": "Regular Trash",
+				"links": [{
+					"location": "Transfer Station",
+					"address": "1601 E. Lookout Drive",
+					"firm": "",
+					"phone": "(972) 234-3247",
+					"url": "https:\/\/www.google.com\/maps?q=1601+E+Lookout+Drive+Richardson+TX"
+				}],
+				"notes": "Note: Regular Trash Solid Waste crews are NOT allowed to collect any trash bag that weighs more than 50 pounds. In care of bulky or heavy trash, the resident must call or make a BABIC request for a special collection."
+			},
+			{
+				"text": "Recycling",
+				"links": [{
+					"location": "Westside Pump Station",
+					"address": "102 N. Cottonwood Drive",
+					"firm": "",
+					"phone": "",
+					"url": "https:\/\/www.google.com\/maps?q=102+N+Cottonwoord+Drive+Richardson+TX"
+				}],
+				"notes": "24\/7 Access to residents"
+			},
+			{
+				"text": "Household Hazardous Waste",
+				"links": [{
+					"location": "Home Chemical Collection Center",
+					"address": "11234 Plano Road",
+					"firm": "Dallas, TX 75243",
+					"phone": "(214) 553-1765",
+					"url": "https:\/\/www.google.com\/maps?q=11234+Plano+Road+Dallas+TX"
+				}],
+				"notes": ""
+			}
+		],
+		"holidayInformation": "There will be no makeup days for trash collection."
+	}
+}
+	]

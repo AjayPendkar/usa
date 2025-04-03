@@ -1,0 +1,191 @@
+[{
+		"@href": "\/public\/nip\/land.nsf\/api\/data\/collections\/name\/AddressLookup\/unid\/6811F91FB7B5550B86256DD60031F279",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/nip\/land.nsf\/api\/data\/documents\/unid\/6811F91FB7B5550B86256DD60031F279"
+		},
+		"@entryid": "1-6811F91FB7B5550B86256DD60031F279",
+		"@unid": "6811F91FB7B5550B86256DD60031F279",
+		"@noteid": "4E42E",
+		"@position": "1",
+		"@siblings": 33644,
+		"@form": "Land",
+		"FullStreetAddress": "1 BRIARCREST CT",
+		"LandLocationID": "000009773",
+		"UtilityID": "000054544",
+		"TaxOwnerName": "PARKER PAMELA PARHAM",
+		"Confidential": "Y",
+		"SectionCode": "SE"
+	},
+	{
+		"@href": "\/public\/nip\/land.nsf\/api\/data\/collections\/name\/AddressLookup\/unid\/8EC9BEB058822E8D86256DD60031E49A",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/nip\/land.nsf\/api\/data\/documents\/unid\/8EC9BEB058822E8D86256DD60031E49A"
+		},
+		"@entryid": "2-8EC9BEB058822E8D86256DD60031E49A",
+		"@unid": "8EC9BEB058822E8D86256DD60031E49A",
+		"@noteid": "6B6D6",
+		"@position": "2",
+		"@siblings": 33644,
+		"@form": "Land",
+		"FullStreetAddress": "1 BRIARWOOD CIR",
+		"LandLocationID": "000002839",
+		"UtilityID": "000002782",
+		"TaxOwnerName": "GONZALES MICHAEL J &",
+		"Confidential": "Y",
+		"SectionCode": "SW"
+	},
+	{
+		"@href": "\/public\/nip\/land.nsf\/api\/data\/collections\/name\/AddressLookup\/unid\/52CD04A67A91926786256DD600323A05",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/nip\/land.nsf\/api\/data\/documents\/unid\/52CD04A67A91926786256DD600323A05"
+		},
+		"@entryid": "3-52CD04A67A91926786256DD600323A05",
+		"@unid": "52CD04A67A91926786256DD600323A05",
+		"@noteid": "3E2BA",
+		"@position": "3",
+		"@siblings": 33644,
+		"@form": "Land",
+		"FullStreetAddress": "1 BRYN MAWR CIR",
+		"LandLocationID": "000045803",
+		"UtilityID": "000042066",
+		"TaxOwnerName": "KOVARIK IRENE M",
+		"Confidential": "Y",
+		"SectionCode": "SE"
+	},
+	{
+		"@href": "\/public\/nip\/land.nsf\/api\/data\/collections\/name\/AddressLookup\/unid\/9F9C1A73E44633B086257EA5002CC34C",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/nip\/land.nsf\/api\/data\/documents\/unid\/9F9C1A73E44633B086257EA5002CC34C"
+		},
+		"@entryid": "4-9F9C1A73E44633B086257EA5002CC34C",
+		"@unid": "9F9C1A73E44633B086257EA5002CC34C",
+		"@noteid": "77EB6",
+		"@position": "4",
+		"@siblings": 33644,
+		"@form": "Land",
+		"FullStreetAddress": "1 BRYN MAWR CIR FH",
+		"LandLocationID": "000095749",
+		"UtilityID": "000066304",
+		"TaxOwnerName": "",
+		"Confidential": "",
+		"SectionCode": "SE"
+	},
+	{
+		"@href": "\/public\/nip\/land.nsf\/api\/data\/collections\/name\/AddressLookup\/unid\/D8B43BFEC33B76FC86256DD60031F3B3",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/nip\/land.nsf\/api\/data\/documents\/unid\/D8B43BFEC33B76FC86256DD60031F3B3"
+		},
+		"@entryid": "5-D8B43BFEC33B76FC86256DD60031F3B3",
+		"@unid": "D8B43BFEC33B76FC86256DD60031F3B3",
+		"@noteid": "A35CA",
+		"@position": "5",
+		"@siblings": 33644,
+		"@form": "Land",
+		"FullStreetAddress": "1 BUNKER HILL",
+		"LandLocationID": "000010381",
+		"UtilityID": "000092186",
+		"TaxOwnerName": "HOLT RICHARD D &",
+		"Confidential": "Y",
+		"SectionCode": "NW"
+	},
+	{
+		"@href": "\/public\/nip\/land.nsf\/api\/data\/collections\/name\/AddressLookup\/unid\/C3963C9BDE67803986256DD60031EE6E",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/nip\/land.nsf\/api\/data\/documents\/unid\/C3963C9BDE67803986256DD60031EE6E"
+		},
+		"@entryid": "6-C3963C9BDE67803986256DD60031EE6E",
+		"@unid": "C3963C9BDE67803986256DD60031EE6E",
+		"@noteid": "93266",
+		"@position": "6",
+		"@siblings": 33644,
+		"@form": "Land",
+		"FullStreetAddress": "1 CHELSEY CIR",
+		"LandLocationID": "000007873",
+		"UtilityID": "000096684",
+		"TaxOwnerName": "DAVID GREG L &",
+		"Confidential": "Y",
+		"SectionCode": "NE"
+	},
+	{
+		"@href": "\/public\/nip\/land.nsf\/api\/data\/collections\/name\/AddressLookup\/unid\/F6DA1AE952DFC1FD86256DD60031DFD3",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/nip\/land.nsf\/api\/data\/documents\/unid\/F6DA1AE952DFC1FD86256DD60031DFD3"
+		},
+		"@entryid": "7-F6DA1AE952DFC1FD86256DD60031DFD3",
+		"@unid": "F6DA1AE952DFC1FD86256DD60031DFD3",
+		"@noteid": "BA14E",
+		"@position": "7",
+		"@siblings": 33644,
+		"@form": "Land",
+		"FullStreetAddress": "1 COLLINS CT",
+		"LandLocationID": "000000393",
+		"UtilityID": "000000384",
+		"TaxOwnerName": "SENZIG RICHARD J &",
+		"Confidential": "Y",
+		"SectionCode": "NE"
+	},
+	{
+		"@href": "\/public\/nip\/land.nsf\/api\/data\/collections\/name\/AddressLookup\/unid\/1EE58B749E355C0386256DD60031F3FD",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/nip\/land.nsf\/api\/data\/documents\/unid\/1EE58B749E355C0386256DD60031F3FD"
+		},
+		"@entryid": "8-1EE58B749E355C0386256DD60031F3FD",
+		"@unid": "1EE58B749E355C0386256DD60031F3FD",
+		"@noteid": "17A0A",
+		"@position": "8",
+		"@siblings": 33644,
+		"@form": "Land",
+		"FullStreetAddress": "1 CRAMPTON'S GAP",
+		"LandLocationID": "000010529",
+		"UtilityID": "000133024",
+		"TaxOwnerName": "DEPPE SUZANN",
+		"Confidential": "Y",
+		"SectionCode": "NW"
+	},
+	{
+		"@href": "\/public\/nip\/land.nsf\/api\/data\/collections\/name\/AddressLookup\/unid\/1416200BC6B3971786256DD60031F587",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/nip\/land.nsf\/api\/data\/documents\/unid\/1416200BC6B3971786256DD60031F587"
+		},
+		"@entryid": "9-1416200BC6B3971786256DD60031F587",
+		"@unid": "1416200BC6B3971786256DD60031F587",
+		"@noteid": "F766",
+		"@position": "9",
+		"@siblings": 33644,
+		"@form": "Land",
+		"FullStreetAddress": "1 CROWN PL",
+		"LandLocationID": "000011295",
+		"UtilityID": "000138451",
+		"TaxOwnerName": "CULVER BRUCE G & ELIZABETH ELA",
+		"Confidential": "Y",
+		"SectionCode": "NW"
+	},
+	{
+		"@href": "\/public\/nip\/land.nsf\/api\/data\/collections\/name\/AddressLookup\/unid\/2146BD1D3AA6205586256DD60031F575",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/nip\/land.nsf\/api\/data\/documents\/unid\/2146BD1D3AA6205586256DD60031F575"
+		},
+		"@entryid": "10-2146BD1D3AA6205586256DD60031F575",
+		"@unid": "2146BD1D3AA6205586256DD60031F575",
+		"@noteid": "195CA",
+		"@position": "10",
+		"@siblings": 33644,
+		"@form": "Land",
+		"FullStreetAddress": "1 CUMBERLAND PL",
+		"LandLocationID": "000011259",
+		"UtilityID": "000010526",
+		"TaxOwnerName": "MATZDORF JANEIL M &",
+		"Confidential": "Y",
+		"SectionCode": "SW"
+	}
+]

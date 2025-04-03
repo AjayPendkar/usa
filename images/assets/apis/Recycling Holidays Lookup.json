@@ -1,0 +1,181 @@
+[{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/RecyclingHolidays\/unid\/7FDD7F53B4808BE3862584E0004BF7CE",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/7FDD7F53B4808BE3862584E0004BF7CE"
+		},
+		"@entryid": "1-7FDD7F53B4808BE3862584E0004BF7CE",
+		"@unid": "7FDD7F53B4808BE3862584E0004BF7CE",
+		"@noteid": "81F5A",
+		"@position": "1",
+		"@siblings": 16,
+		"@form": "RecyclingHolidays",
+		"holidayName": "New Year's Day",
+		"holidayDate": "2021-01-01T14:04:48Z",
+		"recyclingDay": "2020-12-31T14:04:48Z",
+		"makeupDay": "2020-12-30T14:04:48Z",
+		"notes": ""
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/RecyclingHolidays\/unid\/3A405CFD7722D875862584E0004BDD07",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/3A405CFD7722D875862584E0004BDD07"
+		},
+		"@entryid": "2-3A405CFD7722D875862584E0004BDD07",
+		"@unid": "3A405CFD7722D875862584E0004BDD07",
+		"@noteid": "81F56",
+		"@position": "2",
+		"@siblings": 16,
+		"@form": "RecyclingHolidays",
+		"holidayName": "New Year's Day",
+		"holidayDate": "2021-01-01T14:04:48Z",
+		"recyclingDay": "2021-01-01T14:04:48Z",
+		"makeupDay": "2020-12-31T14:04:48Z",
+		"notes": ""
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/RecyclingHolidays\/unid\/19058B70C13A9D1C862584BD00679103",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/19058B70C13A9D1C862584BD00679103"
+		},
+		"@entryid": "3-19058B70C13A9D1C862584BD00679103",
+		"@unid": "19058B70C13A9D1C862584BD00679103",
+		"@noteid": "81772",
+		"@position": "3",
+		"@siblings": 16,
+		"@form": "RecyclingHolidays",
+		"holidayName": "Martin Luther King Jr. Day",
+		"holidayDate": "2021-01-18T14:04:48Z",
+		"recyclingDay": "2021-01-18T14:04:48Z",
+		"makeupDay": "2021-01-19T14:04:48Z",
+		"notes": ""
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/RecyclingHolidays\/unid\/49669B86F6725150862584BD006778AF",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/49669B86F6725150862584BD006778AF"
+		},
+		"@entryid": "4-49669B86F6725150862584BD006778AF",
+		"@unid": "49669B86F6725150862584BD006778AF",
+		"@noteid": "8176A",
+		"@position": "4",
+		"@siblings": 16,
+		"@form": "RecyclingHolidays",
+		"holidayName": "Martin Luther King Jr. Day",
+		"holidayDate": "2021-01-18T14:04:48Z",
+		"recyclingDay": "2021-01-19T14:04:48Z",
+		"makeupDay": "2021-01-20T14:04:48Z",
+		"notes": ""
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/RecyclingHolidays\/unid\/57E480B1A354104D862584BD0067AE02",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/57E480B1A354104D862584BD0067AE02"
+		},
+		"@entryid": "5-57E480B1A354104D862584BD0067AE02",
+		"@unid": "57E480B1A354104D862584BD0067AE02",
+		"@noteid": "8177A",
+		"@position": "5",
+		"@siblings": 16,
+		"@form": "RecyclingHolidays",
+		"holidayName": "Memorial Day",
+		"holidayDate": "2021-05-31T13:04:48Z",
+		"recyclingDay": "2021-05-31T13:04:48Z",
+		"makeupDay": "2021-06-01T13:04:48Z",
+		"notes": ""
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/RecyclingHolidays\/unid\/246B486CC5C32963862584BD0067A353",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/246B486CC5C32963862584BD0067A353"
+		},
+		"@entryid": "6-246B486CC5C32963862584BD0067A353",
+		"@unid": "246B486CC5C32963862584BD0067A353",
+		"@noteid": "81776",
+		"@position": "6",
+		"@siblings": 16,
+		"@form": "RecyclingHolidays",
+		"holidayName": "Memorial Day",
+		"holidayDate": "2021-05-31T13:04:48Z",
+		"recyclingDay": "2021-06-01T13:04:48Z",
+		"makeupDay": "2021-06-02T13:04:48Z",
+		"notes": ""
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/RecyclingHolidays\/unid\/03695BE59A58A997862584E0004B3D03",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/03695BE59A58A997862584E0004B3D03"
+		},
+		"@entryid": "7-03695BE59A58A997862584E0004B3D03",
+		"@unid": "03695BE59A58A997862584E0004B3D03",
+		"@noteid": "81F52",
+		"@position": "7",
+		"@siblings": 16,
+		"@form": "RecyclingHolidays",
+		"holidayName": "July 4th",
+		"holidayDate": "2021-07-04T13:04:48Z",
+		"recyclingDay": "2021-07-05T13:04:48Z",
+		"makeupDay": "2021-07-06T13:04:48Z",
+		"notes": ""
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/RecyclingHolidays\/unid\/368857506B34E67B862584BD0067BB98",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/368857506B34E67B862584BD0067BB98"
+		},
+		"@entryid": "8-368857506B34E67B862584BD0067BB98",
+		"@unid": "368857506B34E67B862584BD0067BB98",
+		"@noteid": "8177E",
+		"@position": "8",
+		"@siblings": 16,
+		"@form": "RecyclingHolidays",
+		"holidayName": "July 4th",
+		"holidayDate": "2021-07-04T13:04:48Z",
+		"recyclingDay": "2021-07-06T13:04:48Z",
+		"makeupDay": "2021-07-07T13:04:48Z",
+		"notes": ""
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/RecyclingHolidays\/unid\/66E5C6C4F952F55D862584BD0067D92F",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/66E5C6C4F952F55D862584BD0067D92F"
+		},
+		"@entryid": "9-66E5C6C4F952F55D862584BD0067D92F",
+		"@unid": "66E5C6C4F952F55D862584BD0067D92F",
+		"@noteid": "81782",
+		"@position": "9",
+		"@siblings": 16,
+		"@form": "RecyclingHolidays",
+		"holidayName": "Labor Day",
+		"holidayDate": "2021-09-06T13:04:48Z",
+		"recyclingDay": "2021-09-06T13:04:48Z",
+		"makeupDay": "2021-09-07T13:04:48Z",
+		"notes": ""
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/RecyclingHolidays\/unid\/E4BE121713683B0B862584BD0067F721",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/E4BE121713683B0B862584BD0067F721"
+		},
+		"@entryid": "10-E4BE121713683B0B862584BD0067F721",
+		"@unid": "E4BE121713683B0B862584BD0067F721",
+		"@noteid": "81786",
+		"@position": "10",
+		"@siblings": 16,
+		"@form": "RecyclingHolidays",
+		"holidayName": "Labor Day",
+		"holidayDate": "2021-09-06T13:04:48Z",
+		"recyclingDay": "2021-09-07T13:04:48Z",
+		"makeupDay": "2021-09-08T13:04:48Z",
+		"notes": ""
+	}
+]

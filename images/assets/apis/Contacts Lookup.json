@@ -1,0 +1,181 @@
+[{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/MyRichardsonContacts\/unid\/D679E9C1F4EC6089862581C300719014",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/D679E9C1F4EC6089862581C300719014"
+		},
+		"@entryid": "1-D679E9C1F4EC6089862581C300719014",
+		"@unid": "D679E9C1F4EC6089862581C300719014",
+		"@noteid": "766AA",
+		"@position": "1",
+		"@siblings": 40,
+		"@form": "MyRichardsonContact",
+		"department": "Accounting",
+		"phoneNumber": "972-744-4062",
+		"email": "ap@cor.gov",
+		"faxNumber": "972-744-5801",
+		"website": "https:\/\/www.cor.net\/departments\/finance\/finance-divisions\/accounting"
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/MyRichardsonContacts\/unid\/BFBFBF7E5D3B440C8625826400666F17",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/BFBFBF7E5D3B440C8625826400666F17"
+		},
+		"@entryid": "2-BFBFBF7E5D3B440C8625826400666F17",
+		"@unid": "BFBFBF7E5D3B440C8625826400666F17",
+		"@noteid": "78BC2",
+		"@position": "2",
+		"@siblings": 40,
+		"@form": "MyRichardsonContact",
+		"department": "ADA Coordinator",
+		"phoneNumber": "972-744-0908",
+		"email": "ADACoordinator@cor.gov",
+		"faxNumber": "972-744-5996",
+		"website": "https:\/\/www.cor.net\/our-city\/city-contacts\/department-contact-list"
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/MyRichardsonContacts\/unid\/47F6FB856142F142862581C30071A1E1",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/47F6FB856142F142862581C30071A1E1"
+		},
+		"@entryid": "3-47F6FB856142F142862581C30071A1E1",
+		"@unid": "47F6FB856142F142862581C30071A1E1",
+		"@noteid": "766AE",
+		"@position": "3",
+		"@siblings": 40,
+		"@form": "MyRichardsonContact",
+		"department": "Animal Services",
+		"phoneNumber": "972-744-4480",
+		"email": "AnimalServices@cor.gov",
+		"faxNumber": "972-744-5817",
+		"website": "https:\/\/www.cor.net\/departments\/animal-services"
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/MyRichardsonContacts\/unid\/3A11E26FDD68AB25862581C30071B80B",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/3A11E26FDD68AB25862581C30071B80B"
+		},
+		"@entryid": "4-3A11E26FDD68AB25862581C30071B80B",
+		"@unid": "3A11E26FDD68AB25862581C30071B80B",
+		"@noteid": "766B2",
+		"@position": "4",
+		"@siblings": 40,
+		"@form": "MyRichardsonContact",
+		"department": "Aquatics",
+		"phoneNumber": "972-744-7892",
+		"email": "vAthleticsAquatics@cor.gov",
+		"faxNumber": "972-479-1390",
+		"website": "https:\/\/www.cor.net\/departments\/parks-recreation\/aquatics"
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/MyRichardsonContacts\/unid\/77013905E8EF3224862581C30071C8CF",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/77013905E8EF3224862581C30071C8CF"
+		},
+		"@entryid": "5-77013905E8EF3224862581C30071C8CF",
+		"@unid": "77013905E8EF3224862581C30071C8CF",
+		"@noteid": "766B6",
+		"@position": "5",
+		"@siblings": 40,
+		"@form": "MyRichardsonContact",
+		"department": "Athletics",
+		"phoneNumber": "972-744-7892",
+		"email": "vAthleticsAquatics@cor.gov",
+		"faxNumber": "972-479-1390",
+		"website": "https:\/\/www.cor.net\/departments\/parks-recreation\/athletics"
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/MyRichardsonContacts\/unid\/D8E935D877C7223F862581C30071E676",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/D8E935D877C7223F862581C30071E676"
+		},
+		"@entryid": "6-D8E935D877C7223F862581C30071E676",
+		"@unid": "D8E935D877C7223F862581C30071E676",
+		"@noteid": "766BA",
+		"@position": "6",
+		"@siblings": 40,
+		"@form": "MyRichardsonContact",
+		"department": "Budget Office",
+		"phoneNumber": "972-744-4021",
+		"email": "vBudget@cor.gov",
+		"faxNumber": "972-744-5803",
+		"website": "https:\/\/www.cor.net\/departments\/budget"
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/MyRichardsonContacts\/unid\/8BBA0953161BCDAC8625826400669DE8",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/8BBA0953161BCDAC8625826400669DE8"
+		},
+		"@entryid": "7-8BBA0953161BCDAC8625826400669DE8",
+		"@unid": "8BBA0953161BCDAC8625826400669DE8",
+		"@noteid": "78BC6",
+		"@position": "7",
+		"@siblings": 40,
+		"@form": "MyRichardsonContact",
+		"department": "Building Inspection",
+		"phoneNumber": "972-744-4180",
+		"email": "Brent.Tignor@cor.gov",
+		"faxNumber": "972-744-5802",
+		"website": "https:\/\/www.cor.net\/departments\/building-inspection"
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/MyRichardsonContacts\/unid\/E9ABD44D6C4A0028862581C30071FB14",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/E9ABD44D6C4A0028862581C30071FB14"
+		},
+		"@entryid": "8-E9ABD44D6C4A0028862581C30071FB14",
+		"@unid": "E9ABD44D6C4A0028862581C30071FB14",
+		"@noteid": "766BE",
+		"@position": "8",
+		"@siblings": 40,
+		"@form": "MyRichardsonContact",
+		"department": "Capital Projects",
+		"phoneNumber": "972-744-4280",
+		"email": "vCapitalProjects@cor.gov",
+		"faxNumber": "972-744-5804",
+		"website": "https:\/\/www.cor.net\/departments\/capital-projects-engineering"
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/MyRichardsonContacts\/unid\/C16F5C29125F9E63862581C300720CA4",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/C16F5C29125F9E63862581C300720CA4"
+		},
+		"@entryid": "9-C16F5C29125F9E63862581C300720CA4",
+		"@unid": "C16F5C29125F9E63862581C300720CA4",
+		"@noteid": "766C2",
+		"@position": "9",
+		"@siblings": 40,
+		"@form": "MyRichardsonContact",
+		"department": "City Manager's Office",
+		"phoneNumber": "972-744-4203",
+		"email": "vCityManagersOffice@cor.gov",
+		"faxNumber": "972-744-5803",
+		"website": "https:\/\/www.cor.net\/government\/city-manager-s-office"
+	},
+	{
+		"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/MyRichardsonContacts\/unid\/397D56E8331F2FA8862581C300722324",
+		"@link": {
+			"rel": "document",
+			"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/397D56E8331F2FA8862581C300722324"
+		},
+		"@entryid": "10-397D56E8331F2FA8862581C300722324",
+		"@unid": "397D56E8331F2FA8862581C300722324",
+		"@noteid": "766C6",
+		"@position": "10",
+		"@siblings": 40,
+		"@form": "MyRichardsonContact",
+		"department": "City Secretary's Office",
+		"phoneNumber": "972-744-4292",
+		"email": "vCitySecretary@cor.gov",
+		"faxNumber": "972-744-5803",
+		"website": "https:\/\/www.cor.net\/government\/city-secretary"
+	}
+]

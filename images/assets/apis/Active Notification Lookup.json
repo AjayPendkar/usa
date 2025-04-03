@@ -1,0 +1,15 @@
+[{
+	"@href": "\/public\/ps\/admin.nsf\/api\/data\/collections\/name\/ActiveNotifications\/unid\/F964ACBCDCE46E9286258752004C35C0",
+	"@link": {
+		"rel": "document",
+		"href": "\/public\/ps\/admin.nsf\/api\/data\/documents\/unid\/F964ACBCDCE46E9286258752004C35C0"
+	},
+	"@entryid": "1-F964ACBCDCE46E9286258752004C35C0",
+	"@unid": "F964ACBCDCE46E9286258752004C35C0",
+	"@noteid": "8B19A",
+	"@position": "1",
+	"@siblings": 1,
+	"@form": "MyRichNotification",
+	"title": "About",
+	"text": "This section will be used for custom notifications"
+}]
